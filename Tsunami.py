@@ -27,7 +27,6 @@ def banner():
     printf "\n"
         ''')
 
-
 def infinite(target, color, msgs):
     times = 0
     while True:
